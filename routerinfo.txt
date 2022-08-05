@@ -1,0 +1,11 @@
+
+IOU1>enable
+Password: 
+IOU1#show users
+    Line       User       Host(s)              Idle       Location
+   0 con 0                idle                 03:28:56   
+*  2 vty 0     muco       idle                 00:00:00 10.1.1.2
+
+  Interface    User               Mode         Idle     Peer Address
+
+IOU1#
