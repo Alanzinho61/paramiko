@@ -1,5 +1,5 @@
 enable
-cisco
+1234
 conf t
 router rip
 version 2
